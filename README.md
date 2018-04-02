@@ -1,4 +1,4 @@
-# Through this tutorial, we'll walk  through the creation of a basic poll application
+# Demo poll app for learning Python Django framework
 
 ## To run the dev server and the tests
 
